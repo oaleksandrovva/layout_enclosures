@@ -12,20 +12,23 @@ body {
   border: 1px solid #e75551;
 }
 
+.blue,
+.yellow,
+.box {
+  padding: 10px;
+}
+
 .blue {
   width: 350px;
-  padding: 10px;
   background-color: #308dc0;
   margin-bottom: 40px;
 }
 
 .yellow {
-  padding: 10px;
   background-color: #ffa500;
 
 }
 
 .box {
   background-color: #ddd;
-  padding: 10px;
 }
