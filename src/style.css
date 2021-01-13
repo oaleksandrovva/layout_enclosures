@@ -10,11 +10,6 @@ body {
 
 .border {
   border: 1px solid #e75551;
-}
-
-.blue,
-.yellow,
-.box {
   padding: 10px;
 }
 
@@ -26,7 +21,6 @@ body {
 
 .yellow {
   background-color: #ffa500;
-
 }
 
 .box {
